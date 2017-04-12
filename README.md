@@ -1,2 +1,2 @@
 # Data-Science-Project-Predicting-Revenue-for-Animation-Films
-This is my second Metis project. I build a predictive model to forecast revenues of animation films using linear regression with regularization.
+This is my second Metis project. I built a predictive model with linear regression, regularization, and cross-validation to forecast the gross revenue of animation films based on raw data scraped from IMDB.com using Beautiful Soup.
